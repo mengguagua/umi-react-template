@@ -1,0 +1,15 @@
+/* 用于写全局样式，如字体，字号等 */
+.normal {
+}
+.content {
+  display: flex;
+  width: 100vw;
+}
+.rightContent {
+  width: 100%;
+  height: calc(100vh - 59px);
+  /*padding: 0px 6px;*/
+}
+.rightPage {
+  padding: 0 24px;
+}
